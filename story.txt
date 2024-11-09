@@ -1,3 +1,4 @@
 Initial text
 Feature text 1
 Fix text
+Feature text 2
