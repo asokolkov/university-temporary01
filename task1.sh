@@ -44,4 +44,3 @@ echo >> task1.txt
 
 git log --graph >> task1.txt
 echo >> task1.txt
-
