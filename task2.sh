@@ -32,7 +32,7 @@ git checkout main
 git merge task2-v1.1
 git branch -d task2-v1.1
 
-git tag v0.1
+git tag v1.1
 
 git log --pretty=oneline --all >> task2.txt
 echo >> task2.txt
